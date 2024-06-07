@@ -1,0 +1,2 @@
+Car{maker='BMW', model='E46', year=2005, price=20000.0}
+Car{maker='BMW', model='E92', year=2012, price=60000.0}
